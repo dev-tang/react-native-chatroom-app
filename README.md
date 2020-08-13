@@ -4,7 +4,7 @@
 
 ## Overview
 
-This Web and Mobile Chatroom App is powered by React Native, [Firebase/Firestore](https://firebase.google.com/), and user's Local Storage. 
+This Web and Mobile Chatroom App is powered by [React Native](https://reactnative.dev/), [Expo](https://docs.expo.io/), [Firebase/Firestore](https://firebase.google.com/), and user's Local Storage. 
 
 User can send and receive chatroom messages to and from other users within this application. Available for Web, iOs, and Android platforms. 
 
