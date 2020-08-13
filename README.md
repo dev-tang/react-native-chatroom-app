@@ -6,7 +6,9 @@
 
 This Web and Mobile Chatroom App is powered by [React Native](https://reactnative.dev/), [Expo](https://docs.expo.io/), [Firebase/Firestore](https://firebase.google.com/), and user's Local Storage. 
 
-User can send and receive chatroom messages to and from other users within this application. Available for Web, iOs, and Android platforms. 
+User can send and receive chatroom messages to and from other users within this application. 
+
+This Application is available for Web, iOs, and Android platforms. 
 
 #### Live Version : https://expo.io/appetize-simulator?url=https://expo.io/@a23235/react-native-chat
 
